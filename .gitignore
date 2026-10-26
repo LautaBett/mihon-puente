@@ -1,0 +1,15 @@
+.gradle/
+.kotlin/
+build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# secretos y estado local de la app
+config.json
+*.tachibk
+*.proto.gz
